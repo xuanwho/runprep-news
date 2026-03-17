@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:runprep="https://runprep.app/rss">
+  <channel>
+    <title>RunPrep News</title>
+    <link>https://runprep.app</link>
+    <description>Updates and announcements for RunPrep.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Mar 2026 12:00:00 GMT</lastBuildDate>
+
+    <item>
+      <guid isPermaLink="false">runprep-2.6</guid>
+      <title>v2.6 — New tools + Race Pace Predictor</title>
+      <description><![CDATA[
+        RunPrep v2.6 adds new tools and introduces the Race Pace Predictor.
+      ]]></description>
+      <pubDate>Tue, 10 Mar 2026 12:00:00 GMT</pubDate>
+
+      <runprep:type>release</runprep:type>
+      <runprep:minAppVersion>2.6</runprep:minAppVersion>
+      <runprep:targetVersion>2.6</runprep:targetVersion>
+    </item>
+
+  </channel>
+</rss>
