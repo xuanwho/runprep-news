@@ -5,48 +5,50 @@
     <link>https://runprep.app</link>
     <description>Updates and announcements for RunPrep.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Mar 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 12:00:00 GMT</lastBuildDate>
 
+    <item>
+      <guid isPermaLink="false">news-2026-03-17-spring-training</guid>
+      <title>Spring is right around the corner — train with confidence</title>
+      <description><![CDATA[
+Spring is almost here, and that means more runs, more sessions, and more momentum.
+
+We’ve got many excited updates planned, and the goal stays the same: help you get ready for any type of run—then keep you supported as your training builds toward your next goal.
+
+Whether you’re doing easy days, long runs, race prep, or switching things up week to week, RunPrep helps you stay prepared and stay on track.
+      ]]></description>
+      <pubDate>Tue, 17 Mar 2026 12:00:00 GMT</pubDate>
+      <!-- No runprep:minAppVersion => show to everyone -->
+    </item>
+
+    <!-- Keep the Mar 10 items -->
     <item>
       <guid isPermaLink="false">runprep-2.6</guid>
       <title>v2.6 — Race Pace Predictor + new tools</title>
       <description><![CDATA[
-RunPrep v2.6 introduces the Race Pace Predictor to help you plan pacing more confidently for your next race.
+RunPrep v2.6 adds the Race Pace Predictor to help you plan pacing more confidently for your next race.
 
-What’s new:
-- Race Pace Predictor: get pacing guidance designed around your race goals
+New in this release:
+- Race Pace Predictor (pacing guidance based on your goals)
 - New tools to support smarter pre-run decisions
 
-Thanks for using RunPrep—more improvements coming soon.
+More improvements are already in progress too—new tools are coming soon, and we’re excited to keep building with you.
       ]]></description>
-      <pubDate>Tue, 17 Mar 2026 12:00:00 GMT</pubDate>
+      <pubDate>Tue, 10 Mar 2026 12:00:00 GMT</pubDate>
 
-      <!-- Eligible starting with v2.6; older versions won’t show it -->
       <runprep:minAppVersion>2.6</runprep:minAppVersion>
     </item>
 
     <item>
-      <guid isPermaLink="false">news-2026-03-17-welcome</guid>
-      <title>Welcome to RunPrep Updates</title>
+      <guid isPermaLink="false">news-2026-03-10-updates-coming</guid>
+      <title>Updates are coming — here’s where we’ll share them</title>
       <description><![CDATA[
-Testing new format and making this neater.
-      ]]></description>
-      <pubDate>Tue, 17 Mar 2026 12:00:00 GMT</pubDate>
+Many updates are on the way, and this is the place where we’ll communicate what’s new to users.
 
-      <!-- No minAppVersion tag => show to everyone -->
+Whenever we roll out new tools, improvements, or helpful updates, you’ll see them here in-app—so you never have to wonder what changed or what to look for next.
+      ]]></description>
+      <pubDate>Tue, 10 Mar 2026 12:00:00 GMT</pubDate>
     </item>
 
-
-    <item>
-      <guid isPermaLink="false">news-2026-03-9-welcome</guid>
-      <title>Welcome to RunPrep Updates</title>
-      <description><![CDATA[
-You’ll see important RunPrep announcements and new features here in the app.
-      ]]></description>
-      <pubDate>Tue, 9 Mar 2026 12:00:00 GMT</pubDate>
-
-      <!-- No minAppVersion tag => show to everyone -->
-    </item>
-    
   </channel>
 </rss>
