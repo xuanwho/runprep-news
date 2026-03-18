@@ -6,7 +6,7 @@
     <description>Updates and announcements for RunPrep.</description>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Mar 2026 12:00:00 GMT</lastBuildDate>
-
+<!-- Remove for now
     <item>
       <guid isPermaLink="false">news-2026-03-17-spring-training</guid>
       <title>Spring is right around the corner — train with confidence</title>
@@ -20,7 +20,31 @@ Whether you’re doing easy days, long runs, race prep, or switching things up w
       <pubDate>Tue, 17 Mar 2026 12:00:00 GMT</pubDate>
       <!-- No runprep:minAppVersion => show to everyone -->
     </item>
+-->
+<item>
+  <guid isPermaLink="false">news-2026-03-17-spring-training</guid>
+  <title>Spring is right around the corner — train with confidence</title>
 
+  <link>https://tally.so/r/yPDzl8</link>
+
+  <description><![CDATA[
+Spring is almost here, and that means more runs, more sessions, and more momentum.
+
+We’ve got many excited updates planned, and the goal stays the same: help you get ready for any type of run, then keep you supported as your training builds toward your next goal.
+
+Whether you’re doing easy days, long runs, race prep, or switching things up week to week, RunPrep makes it easy for you to lace up and get running.
+
+GIVE FEEDBACK (tap to answer)
+1) Help us plan what’s next by sharing your thoughts
+2) Specifically: how useful do you think the Pollen feature will be?
+
+Thanks for helping shape the roadmap.
+  ]]></description>
+
+  <pubDate>Tue, 17 Mar 2026 12:00:00 GMT</pubDate>
+  <!-- No runprep:minAppVersion => show to everyone -->
+</item>
+    
     <!-- Keep the Mar 10 items -->
     <item>
       <guid isPermaLink="false">runprep-2.6</guid>
