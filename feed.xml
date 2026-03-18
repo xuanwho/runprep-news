@@ -6,7 +6,18 @@
     <description>Updates and announcements for RunPrep.</description>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Mar 2026 12:00:00 GMT</lastBuildDate>
-
+    
+    <item>
+      <guid isPermaLink="false">news-2026-03-10-welcome</guid>
+      <title>Welcome to RunPrep News</title>
+      <description><![CDATA[
+        We’ll occasionally post quick tips and announcements here.
+      ]]></description>
+      <pubDate>Tue, 10 Mar 2026 12:00:00 GMT</pubDate>
+    
+      <runprep:type>news</runprep:type>
+    </item>
+    
     <item>
       <guid isPermaLink="false">runprep-2.6</guid>
       <title>v2.6 — New tools + Race Pace Predictor</title>
