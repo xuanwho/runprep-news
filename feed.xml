@@ -19,22 +19,34 @@ What’s new:
 
 Thanks for using RunPrep—more improvements coming soon.
       ]]></description>
-      <pubDate>Tue, 10 Mar 2026 12:00:00 GMT</pubDate>
+      <pubDate>Tue, 17 Mar 2026 12:00:00 GMT</pubDate>
 
       <!-- Eligible starting with v2.6; older versions won’t show it -->
       <runprep:minAppVersion>2.6</runprep:minAppVersion>
     </item>
 
     <item>
-      <guid isPermaLink="false">news-2026-03-10-welcome</guid>
+      <guid isPermaLink="false">news-2026-03-17-welcome</guid>
       <title>Welcome to RunPrep Updates</title>
       <description><![CDATA[
-You’ll see important RunPrep announcements and new features here in the app.
+Testing new format and making this neater.
       ]]></description>
-      <pubDate>Tue, 10 Mar 2026 12:00:00 GMT</pubDate>
+      <pubDate>Tue, 17 Mar 2026 12:00:00 GMT</pubDate>
 
       <!-- No minAppVersion tag => show to everyone -->
     </item>
 
+
+    <item>
+      <guid isPermaLink="false">news-2026-03-9-welcome</guid>
+      <title>Welcome to RunPrep Updates</title>
+      <description><![CDATA[
+You’ll see important RunPrep announcements and new features here in the app.
+      ]]></description>
+      <pubDate>Tue, 9 Mar 2026 12:00:00 GMT</pubDate>
+
+      <!-- No minAppVersion tag => show to everyone -->
+    </item>
+    
   </channel>
 </rss>
